@@ -1,5 +1,7 @@
-flet~=0.9.0
-humanfriendly~=10.0
+flet==0.15.0
+humanfriendly
 appdata
 spotdl
 configobj
+flet-timer
+tinytag
